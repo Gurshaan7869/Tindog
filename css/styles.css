@@ -1,0 +1,84 @@
+#title {
+    color: white;
+    background-color: black;
+    padding-bottom: 2%;
+}
+
+.btnMargin {
+    margin-top: 13%;
+    padding-bottom: 5%;
+}
+
+.row {
+    margin-top: 3%;
+    margin-left: 5%;
+}
+
+.btn-outline-danger {
+    margin-left: 3%;
+}
+
+h1 {
+    font-family: 'Montserrat-Black', sans-serif;
+    font-size: 4rem;
+    line-height: 1.5;
+    font-weight: 800;
+}
+
+.navbar-brand {
+    font-family: 'Ubuntu Mono', monospace;
+    font-size: 3rem;
+    font-style: bold;
+}
+
+.nav-item {
+    padding: 0 20px;
+    font-family: 'Monsterrat-Black', monospace;
+    font-size: 1.3rem;
+}
+
+.title-img {
+    width: 60%;
+    transform: rotate(15deg);
+}
+
+.features {
+    text-align: center;
+}
+
+.fas {
+    padding-bottom: .75cm;
+    color: grey;
+}
+
+.fas:hover {
+    color: black;
+}
+
+#testimonials {
+    margin-top: 3%;
+    padding: 5% 15%;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+#press {
+    background-color: gray;
+    padding: 3%;
+}
+
+.pressImg {
+    margin-left: 31%;
+}
+
+.testimonial-image {
+    width: 10%;
+    border-radius: 100%;
+}
+
+.carousel-item {
+    width: 50%;
+    padding: 3%;
+    margin-left: 25%;
+}
